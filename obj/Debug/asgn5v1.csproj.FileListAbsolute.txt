@@ -1,0 +1,7 @@
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\bin\Debug\asgn5v1.exe
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\bin\Debug\asgn5v1.pdb
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\obj\Debug\asgn5v1.AboutDialogBox.resources
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\obj\Debug\asgn5v1.Transformer.resources
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\obj\Debug\asgn5v1.csproj.GenerateResource.Cache
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\obj\Debug\asgn5v1.exe
+C:\Users\frank\OneDrive\Documents\BCIT\Term_4\COMP4560\Assignments\Assignment 5\obj\Debug\asgn5v1.pdb
